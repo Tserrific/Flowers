@@ -1,0 +1,68 @@
+@import
+url(https://fonts.google.com/specimen/Josefin+Sans#standard-styles);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    background-color: #FFB6C1;
+    background-size: cover;
+    background-repeat: no-repeat;  
+    background-position: center;
+    text-align: center;
+    line-height: 1.8;
+    margin-bottom: 50px;
+  
+  }
+
+#comments {
+  width: 500px;
+  height: 90px; 
+  margin-top: 12px;
+  line-height: 3; 
+  font-family: Josefin, sans-serif;
+  font-size: 20px; 
+  color: #000000; 
+  border-radius: 20%; 
+}
+.flower {
+  padding: 50px;
+  }
+
+.paragraphs{
+  font-family: Josefin, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  
+}
+#list{
+  font-family: Josefin, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #FA2B3E;
+  
+}
+
+#buttons {
+  width: 130px;
+  height: 25px;
+  border-radius: 20px;
+  background-color: #FA4455;
+  font-family: Josefin, sans-serif;
+  font-size: 16px;
+  color: #FFFFFF;
+  
+}
+
+#button1 {
+  width: 170px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #000000;
+  font-family: Josefin, sans-serif;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin: 40px;
+}
